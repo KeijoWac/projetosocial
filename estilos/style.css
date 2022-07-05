@@ -1,0 +1,23 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body {
+    background-image:url(../imagens/fundo-madeira.jpg);
+    background-size: auto;
+    background-repeat: no-repeat;
+}
+div{
+    display: inline-block;
+    background-image: url(../imagens/frame-iphone.png);
+    background-repeat: no-repeat;
+    background-size: auto;
+    height: 50vh;
+    width: 320;
+}
+iframe{
+    position: absolute;
+    top: 50%;
+    right: 50%;
+    transform: ;
+}
